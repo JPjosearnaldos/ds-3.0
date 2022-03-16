@@ -27,6 +27,22 @@
 ## COLOUR
 - Assigned colour variables
 
+## ICONS
+- New individual and general component with correct style
+
+## ICONS
+- Added payment method icons
+
+## PAYMENT METHODS
+- Payment methods list component
+- colours
+- fonts
+
+## LABELS
+- Changed line height
+- added padding
+- Updated colours and typography
+
 
 # Pages
 
